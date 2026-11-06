@@ -18,7 +18,7 @@ Monitors member joins over a rolling 30-second window and raises an alert at the
 
 ### Moderation tools
 
-Staff commands cover bans, unbans, kicks, timeouts, permanent mutes, warnings, warning review and clearing, moderation history, message purges, slowmode, channel locks, lockdown controls and private staff notes. Actions check role hierarchy and required Discord permissions.
+Staff commands cover bans, unbans, timeouts, permanent mutes, warnings, warning review and clearing, moderation history, message purges, slowmode, channel locks, lockdown controls and private staff notes. Actions check role hierarchy and required Discord permissions.
 
 ## Forum Review
 
