@@ -16,7 +16,7 @@ GlobalHost provides staff commands for member actions, channel controls and priv
 | Member actions | `/warn`, `/warnings`, `/clearwarnings`, `/history` | Trial Mod and above, with clearing restricted to Mod and above |
 | Temporary restrictions | `/timeout`, `/untimeout` | Trial Mod and above |
 | Permanent mute | `/mute`, `/unmute` | Trial Mod and above |
-| Removal | `/kick`, `/ban`, `/unban` | Mod and above |
+| Ban management | `/ban`, `/unban` | Mod and above |
 | Channel management | `/purge`, `/slowmode`, `/lock`, `/unlock` | Purge, slowmode and locks are Admin/Owner tools |
 | Raid response | `/lockdown`, `/unlockdown` | Owner or Admin |
 | Private staff notes | `/note add`, `/note remove` | Authorised staff |
