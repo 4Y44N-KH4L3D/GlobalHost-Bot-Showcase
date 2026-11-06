@@ -39,7 +39,6 @@ See [Developer Tools](/commands/developer-tools) for detailed use cases and exam
 | --- | --- | --- | --- |
 | `/ban` | `member` required; `reason` optional; `delete_messages` optional (none, 1 day, 7 days) | Ban a member, optionally deleting recent messages. | Mod, Admin, Owner |
 | `/unban` | `user_id` required; `reason` optional | Remove a ban using a Discord user ID. | Mod, Admin, Owner |
-| `/kick` | `member` required; `reason` optional | Remove a member from the server. | Mod, Admin, Owner |
 | `/timeout` | `member` required; `duration` required; `reason` optional | Apply a temporary timeout. | Trial Mod, Mod, Admin, Owner |
 | `/untimeout` | `member` required; `reason` optional | Remove a member's timeout. | Trial Mod, Mod, Admin, Owner |
 | `/mute` | `member` required; `reason` optional | Apply the server's permanent mute role. | Trial Mod, Mod, Admin, Owner |
@@ -157,7 +156,6 @@ These actions appear when right-clicking a message or member in Discord, rather 
 | **Warnings** | Member | Trial Mod, Mod, Admin, Owner | View active warnings. |
 | **Moderation History** | Member | Trial Mod, Mod, Admin, Owner | View recorded moderation actions. |
 | **Warn** | Member | Trial Mod, Mod, Admin, Owner | Open the warning workflow. |
-| **Kick** | Member | Mod, Admin, Owner | Open the kick workflow. |
 | **Timeout** | Member | Trial Mod, Mod, Admin, Owner | Open the timeout workflow. |
 | **Ban** | Member | Mod, Admin, Owner | Open the ban workflow. |
 | **Search Message** | Message | Public | Search the web using the selected message text. |
