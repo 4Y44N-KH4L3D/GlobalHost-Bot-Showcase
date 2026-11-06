@@ -14,7 +14,7 @@ GlobalHost uses a custom staff toolkit for member actions, channel controls and 
 - **Warnings:** issue a warning, review active warnings, clear warnings where authorised, and inspect a member's moderation history.
 - **Timeouts:** apply a temporary timeout or remove an existing timeout.
 - **Permanent mute:** apply the configured mute role and save eligible roles so they can be restored after an unmute.
-- **Kick and ban:** remove a member from the server or ban them. Authorised staff can also unban by user ID.
+- **Bans:** ban members and unban by user ID. Authorised staff can also review moderation history.
 - **Staff notes:** add private notes about a member and remove notes by ID.
 
 ## Channel controls
