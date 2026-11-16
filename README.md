@@ -29,6 +29,9 @@ A custom Python bot helps keep the GlobalHost server organised. Its private tool
 - 🛡️ **Moderation and AutoMod** — rule enforcement and staff support
 - 🚨 **Raid protection** — suspicious join monitoring and staff alerts
 - 🎫 **Support tickets** — a route for members to contact staff
+- 👤 **Member profiles** — introductions, interests, projects and profile customisation
+- 🏆 **Community challenges** — quick technology trivia and minigames with staff-reviewed results
+- 📝 **Staff applications** — structured applications, review and interview workflow
 - 🧵 **Forum review** — tools for reviewing selected forum activity
 - 📢 **Community utilities** — announcements, events, sticky messages, and more
 - 💻 **Developer commands** — programming-related search and utilities
