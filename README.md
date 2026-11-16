@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Developer_Community-5865F2?style=flat-square" alt="Developer community" />
-  <img src="https://img.shields.io/badge/Documented_Tool_Areas-6-2EA44F?style=flat-square" alt="Six documented tool areas" />
+  <img src="https://img.shields.io/badge/Server_Features-Documented-2EA44F?style=flat-square" alt="Documented server features" />
   <img src="https://img.shields.io/badge/Custom_Bot-Private-orange?style=flat-square" alt="Private custom bot" />
   <img src="https://img.shields.io/badge/Site-GitHub_Pages-222222?style=flat-square" alt="Website hosted on GitHub Pages" />
 </p>
@@ -29,6 +29,9 @@ A custom Python bot helps keep the GlobalHost server organised. Its private tool
 - 🛡️ **Moderation and AutoMod** — rule enforcement and staff support
 - 🚨 **Raid protection** — suspicious join monitoring and staff alerts
 - 🎫 **Support tickets** — a route for members to contact staff
+- 👤 **Member profiles** — introductions, interests, projects and profile customisation
+- 🏆 **Community challenges** — quick technology trivia and minigames with staff-reviewed results
+- 📝 **Staff applications** — structured applications, review and interview workflow
 - 🧵 **Forum review** — tools for reviewing selected forum activity
 - 📢 **Community utilities** — announcements, events, sticky messages, and more
 - 💻 **Developer commands** — programming-related search and utilities
