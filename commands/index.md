@@ -102,14 +102,6 @@ Ticket-management commands are normally used in the relevant ticket channel. Mem
 | `/export_analytics` | No arguments | Export ticket analytics as a CSV file. | Owner |
 | `/staffstats` | `period` optional: 7 days, 30 days, 90 days or all time | View support staff activity and ratings. | Mod, Admin, Owner |
 
-## Staff applications
-
-| Command | Arguments | Description | Access |
-| --- | --- | --- | --- |
-| `/staffapplications` | `status` required: Open or Closed | Open or close GlobalHost staff applications. | Admin, Owner |
-
-The application workflow includes eligibility checks, application review, interview tickets and application records. The panel itself is maintained by server staff.
-
 ## Forum Review
 
 | Command | Arguments | Description | Access |
