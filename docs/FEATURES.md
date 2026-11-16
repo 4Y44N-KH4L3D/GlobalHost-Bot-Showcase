@@ -41,6 +41,18 @@ The four developer search commands are:
 
 Message context menus also include **Search Message**, **Encode**, **Decode**, **Check with AI** and **Check Code with AI**. AI checks are staff-only and intended to assist review, not replace human judgement.
 
+## Member profiles
+
+Members can use **/profile** to view their own profile or another member's profile. From their own profile, eligible members can create or edit an introduction, programming languages, interests, devices, favourite brands and games, projects and GitHub details. Profile creation and editing unlock at Level 1; advanced customisation unlocks at Level 3.
+
+## Community challenges
+
+GlobalHost runs short technology trivia rounds and minigames rather than long assessments. Formats include quick trivia, guessing program output, spotting bugs, code riddles, identifying devices or brands, and odd-one-out questions. Staff can generate and review a draft before publishing it. Members submit one answer per round, and staff review submissions before publishing winners and honourable mentions. A public leaderboard and challenge history let members see results and previous rounds.
+
+## Staff applications
+
+The staff application workflow checks eligibility before an application can be submitted. The standard requirements include at least seven days in the server, Level 2 or higher, and no recorded permanent mute. Applications are reviewed by the Owner and Administrators. The workflow supports application records, review actions and interview tickets; AI-assisted analysis is advisory and does not make acceptance or rejection decisions.
+
 ## Events and community management
 
 - **Scheduled events:** create, list, edit, cancel and view statistics for community events.
