@@ -38,7 +38,8 @@ export default defineConfig({
           { text: 'Moderation Tools', link: '/features/moderation' },
           { text: 'Forum Review', link: '/features/forum-review' },
           { text: 'Support Tickets', link: '/features/support-tickets' },
-          { text: 'Community Tools', link: '/features/community-tools' }
+          { text: 'Community Tools', link: '/features/community-tools' },
+          { text: 'Profiles, Challenges & Applications', link: '/features/community-tools#member-profiles' }
         ]
       },
       {
