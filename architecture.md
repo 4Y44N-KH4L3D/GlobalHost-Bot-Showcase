@@ -16,7 +16,7 @@ GlobalHost Bot uses Python and discord.py to handle Discord events and commands.
 | Component | Purpose |
 | --- | --- |
 | Discord integration | Receives slash commands, context-menu actions, messages and member events. |
-| Feature modules | Handle moderation, AutoMod, raid alerts, tickets, forum review and developer search. |
+| Feature modules | Handle moderation, AutoMod, raid alerts, tickets, forum review, member profiles, community challenges, staff applications and developer search. |
 | SQLite | Stores selected cases, offence history, mute data and workflow records. |
 | Actions and logs | Sends Discord replies, carries out permitted actions and writes logs to configured channels. |
 
@@ -32,6 +32,8 @@ GlobalHost Bot uses Python and discord.py to handle Discord events and commands.
 - Moderation actions depend on staff access, bot permissions and Discord role hierarchy.
 - Raid alerts notify staff; they do not automatically lock the server.
 - AI-assisted analysis can provide information, but does not replace a staff decision.
+- Challenge submissions are reviewed by staff before results are published.
+- Staff application decisions remain with the Owner and Administrators.
 
 ## Technology
 
