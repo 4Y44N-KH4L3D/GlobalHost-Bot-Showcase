@@ -27,11 +27,11 @@ Meet members interested in languages, backend development, frontend, Linux, cybe
 
 ### Keep the server useful
 
-Moderation, support tickets, forum review, events and server utilities help keep conversations organised and make it easier for members and staff to use the community.
+Moderation, support tickets, forum review, community challenges, member profiles, staff applications, events and server utilities help keep conversations organised and make it easier for members and staff to use the community.
 
 ## The tools behind the server
 
-The server uses a custom-built Discord bot for moderation, raid alerts, support tickets, forum review, events and developer search. These tools are built around how GlobalHost operates.
+The server uses a custom-built Discord bot for moderation, raid alerts, support tickets, forum review, community challenges, member profiles, staff applications, events and developer search. These tools are built around how GlobalHost operates.
 
 They are documented here for transparency and as a record of the project. **The bot is private to GlobalHost and is not available for other servers to add or use.**
 
